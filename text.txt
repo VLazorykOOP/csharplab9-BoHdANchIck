@@ -1,0 +1,3 @@
+Smith, John, Albert, Male, 30, 9500
+Johnson, Emily, Rose, Female, 25, 12000
+Brown, Michael, James, Male, 45, 8000
